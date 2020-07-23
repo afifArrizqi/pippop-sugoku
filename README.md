@@ -1,1 +1,1 @@
-# pippop-sugoku
+# sugoku
